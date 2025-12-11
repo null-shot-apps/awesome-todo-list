@@ -121,7 +121,7 @@ export default function TodoApp() {
               onClick={addTodo}
               className="px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-lg hover:from-blue-600 hover:to-purple-700 transition-all duration-200 font-medium shadow-lg hover:shadow-xl"
             >
-              Add
+              Create
             </button>
           </div>
         </div>
@@ -223,4 +223,5 @@ export default function TodoApp() {
     </div>
   );
 }
+
 
